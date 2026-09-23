@@ -26,8 +26,6 @@
 
 **Reel:** [Watch 9sec Demo on Instagram](https://instagram.com/codes_king)
 
-**Reel:** [Watch on Instagram](https://instagram.com/codes_king) -
-
 ### ✨ Why This Is Trending in 2026?
 
 1.  **Jetpack Compose is now DEFAULT** - No more XML
