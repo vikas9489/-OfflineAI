@@ -11,11 +11,20 @@
 
 ---
 
-### 🎬 Demo
+### 🎬 Demo - 100% Offline, Airplane Mode ON ✈️
 
-| Airplane Mode ON | Offline Summary |
-| :--- | :--- |
-| <img src="https://via.placeholder.com/300x600/0A0A0A/00FF88?text=Airplane+Mode+ON" width="200"/> | <img src="https://via.placeholder.com/300x600/0A0A0A/FFFFFF?text=OFFLINE+SUMMARY" width="200"/> |
+<p align="center">
+  <img src="screenshots/screenshot_airplane.png" width="270" alt="Airplane Mode ON - RUN AI OFFLINE" />
+  <img src="screenshots/screenshot_summary.png" width="270" alt="Offline Summary Result" />
+</p>
+
+<p align="center">
+  <img src="screenshots/screenshot_summary2.png" width="550" alt="Summary with COMPOSE AI KMP keywords" />
+</p>
+
+**Watch:** Top bar shows ✈️ Airplane icon ON → Paste text → Tap "Summarize Offline" → Instant `OFFLINE SUMMARY` + `KEY TOPICS: COMPOSE, AI, KMP`. No internet, no API key.
+
+**Reel:** [Watch 9sec Demo on Instagram](https://instagram.com/codes_king)
 
 **Reel:** [Watch on Instagram](https://instagram.com/codes_king) -
 
